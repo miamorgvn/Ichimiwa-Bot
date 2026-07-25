@@ -45,7 +45,8 @@ pip install -r requirements.txt
 Set up your Discord bot token as an environment variable:
 
 ```bash
-export DISCORD_TOKEN="YOUR_BOT_TOKEN_HERE"
+nano .env
+DISCORD_TOKEN="YOUR_BOT_TOKEN_HERE"
 ```
 
 ## Running the Bot
